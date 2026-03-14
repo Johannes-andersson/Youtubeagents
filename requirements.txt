@@ -1,0 +1,7 @@
+yt-dlp
+youtube-transcript-api
+requests
+python-dotenv
+streamlit
+openai-whisper
+certifi
